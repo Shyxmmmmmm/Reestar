@@ -1,5 +1,5 @@
 # Reestar
-A simple restaurant website built using HTML and CSS featuring food items, menu cards, and a contact form with a clean layout.
+🍽 Reestar restaurant webpage with food cards, navigation menu, and contact form built using HTML and CSS.
 
 
 Live Demo: https://shyxmmmmmm.github.io/Reestar/
